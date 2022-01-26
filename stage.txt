@@ -1,2 +1,2 @@
- stage file is updating
+ stage file is updating in remote repositiry
 
